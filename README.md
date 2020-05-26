@@ -1,5 +1,3 @@
 # ... TBD
 
-This is just a proposed express.js application. It can be used as the beginning
-of a project by modifying the app.js and working from there. It can also be
-completely replaced with an existing node.js application.
+This is just a simple express.js application along with a devfile.yaml that provides locations for a Dockerfile (convert this source into a container image), and a deployment manifest (deploy the containerized application).
